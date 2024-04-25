@@ -1,7 +1,7 @@
 # admin-areas
 Geographic administrative areas
 
-Geodata on the boundaries of administrative areas in different countries (e.g. regions, provinces, states, counties, cities). Collected from disparate sources online; usually each country's geoportal. File naming convention  is: <two-letter IBAN code>.geojson.
+Geodata on the boundaries of administrative areas in different countries (e.g. regions, provinces, states, counties, cities). Collected from disparate sources online; usually each country's geoportal. File naming convention  is: IBANcode.geojson.
 
 File format is GeoJSON (https://geojson.org/) meaning all files will habve a "geometry" column which specifies the actual shape of he administrative area in 2D Cartesian space (note: not a 3D sphere -- we're working with flat maps, not globes).
 
