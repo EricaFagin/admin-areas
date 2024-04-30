@@ -12,7 +12,7 @@ See https://postgis.net/ for more detail about "geometry" columns and implementa
 
 Important to call out that countries arrange their administrative areas differently from each other and differently within their own borders.
 
-For example, Norway's largest administrative area are "counties", whereas in the US they are "states". And the UK, the largest area is a "nation" (England, Wales, Scotland, Norther Ireland).
+For example, Norway's largest administrative area are "counties", whereas in the US they are "states". And the UK, the largest area is a "nation" (England, Wales, Scotland, Northern Ireland).
 
 Germany's largest administrative areas are *both* "states" and "city-states".
 
