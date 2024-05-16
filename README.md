@@ -40,7 +40,7 @@ For this reason, the schema design includes columns to specify both the "level" 
 
 - area_name_en
     type: varchar
-    description: the actual name of the area, in English (e.g. "Bavaria","Munich")
+    description: the actual name of the area, in English (e.g. "Bavaria","Munich"). If the country's native language is in a non-English alphabet, this will include both the transliterated text as well as the English translation separated by a "/", e.g. "mintaqa/zones".
 
 - area_name
     type: varchar
